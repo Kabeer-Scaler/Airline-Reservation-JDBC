@@ -4,7 +4,7 @@
     <root id="archive" name="Airline Reservation System.jar">
       <element id="module-output" name="Airline Reservation System" />
       <element id="extracted-dir" path="$USER_HOME$/OneDrive/Desktop/mysql-connector-j-9.4.0.jar" path-in-jar="/" />
-      <element id="dir-copy" path="$PROJECT_DIR$/out/artifacts/Airline_Reservation_System_jar/Airline Reservation System/resources" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
     </root>
   </artifact>
 </component>
